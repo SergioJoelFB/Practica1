@@ -1,4 +1,4 @@
-package com.sergio.archivogui;
+lpackage com.sergio.archivogui;
 
 import com.sergio.archivobusiness.entity.Cliente;
 import com.sergio.archivobusiness.entity.Factura;
@@ -27,7 +27,7 @@ public class Main {
 		Cliente cli = new Cliente();
 		cli.setId((long) 002);
 		cli.setNombre("Julio");
-		cli.setApellido("Peregrino");
+		cli.setApellido("Pelegrino");
 		
 		Producto pro = new Producto();
 		pro.setId((long) 003);
